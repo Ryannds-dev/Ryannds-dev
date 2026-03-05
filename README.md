@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://portfolio-dev-ryann.vercel.app/og-background.png" alt="Ryann DERA-SCHTYK — Développeur Web" width="100%" />
+<img src="https://ryannds.dev/og-background.png" alt="Ryann DERA-SCHTYK — Développeur Web" width="100%" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dev-ryann.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ryannds.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryann-dera-schtyk/)
 
 </div>
