@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ryannds.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryann-dera-schtyk/)
+[![YouTube](https://img.shields.io/badge/YouTube-121212?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC39lrBtUAvpdHQWhVULFFCA)
 
 </div>
 
