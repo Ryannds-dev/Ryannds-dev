@@ -35,3 +35,40 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
+
+## 🎥 Série YouTube - Dessine ton code
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/273_YpNthqg" target="_blank">
+        <img src="https://img.youtube.com/vi/273_YpNthqg/maxresdefault.jpg" alt="Dessine ton code – HTML #1 : C’est quoi le HTML ?" width="100%" />
+      </a>
+      <br/>
+      <strong>HTML #1 : C’est quoi le HTML ?</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/BvWDNa_mcuI" target="_blank">
+        <img src="https://img.youtube.com/vi/BvWDNa_mcuI/maxresdefault.jpg" alt="Dessine ton code – HTML #2 : Les balises HTML" width="100%" />
+      </a>
+      <br/>
+      <strong>HTML #2 : Les balises HTML</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/8ga-bS22SPM" target="_blank">
+        <img src="https://img.youtube.com/vi/8ga-bS22SPM/maxresdefault.jpg" alt="Dessine ton code – HTML #3 : L'imbrication des éléments HTML" width="100%" />
+      </a>
+      <br/>
+      <strong>HTML #3 : L'imbrication des éléments HTML</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/19FqzWvU6z4" target="_blank">
+        <img src="https://img.youtube.com/vi/19FqzWvU6z4/maxresdefault.jpg" alt="Dessine ton code – HTML #4 : Les attributs HTML" width="100%" />
+      </a>
+      <br/>
+      <strong>HTML #4 : Les attributs HTML</strong>
+    </td>
+  </tr>
+</table>
